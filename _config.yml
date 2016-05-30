@@ -1,28 +1,40 @@
-name: thechemmeister
 favicon: null
-layout_spectrum: 0.5577898300252855
-typography_spectrum: 0.04825842613354325
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: thechemmeister
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.4017443878110498
+  brandStrength: 0.07015296746976674
+  rhythmicContrast: 0.4516382701694965
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.07015296746976674
   lightness: 0.7213882319629192
-  saturation: 0.4017443878110498
-  rhythmicContrast: 0.45163827016949654
-purpose: []
+typography_spectrum: 0.0483871
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.5577898300252855
+analytics:
+  twitter: null
+  google: null
+  facebook: null
