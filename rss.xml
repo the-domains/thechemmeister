@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[thechemmeister]]></title>
         <description><![CDATA[thechemmeister]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thechemmeister/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 19:38:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 30 May 2016 19:38:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thechemmeister/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ac1a6bf-9976-45f7-9dce-b9daeb439fc7.jpg">]]></description>
+            <link>https://thegrid.ai/thechemmeister/this-is-a-new-adventure-a-reinvention-a-new-path/index.html</link>
+            <guid isPermaLink="false">5522e115-46c2-454d-9e87-1005bae5186d</guid>
+            <pubDate>Mon, 30 May 2016 19:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>If you receive the world,</p>]]></description>
+            <link>https://thegrid.ai/thechemmeister/if-you-receive-the-world/index.html</link>
+            <guid isPermaLink="false">6d6aba81-b9bf-4de1-b63c-4228a7efa6ba</guid>
+            <pubDate>Mon, 30 May 2016 19:38:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7194c8c-56ee-4ee1-ab55-b391a6b8e93b.jpg">]]></description>
-            <link>undefinedtime-to-fly/index.html</link>
+            <link>https://thegrid.ai/thechemmeister/time-to-fly/index.html</link>
             <guid isPermaLink="false">022146af-4e03-4156-8391-5abcf9d0ece6</guid>
             <pubDate>Mon, 30 May 2016 19:38:00 GMT</pubDate>
         </item>
